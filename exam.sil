@@ -1,0 +1,7 @@
+program exam
+if (x*2) > y then
+set z = 10
+else
+set z = 11
+endif
+end program
