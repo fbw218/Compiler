@@ -7,4 +7,6 @@ The machine language gets saved into a file and executed.
 
   To Run:
   make
-  
+  silc 'ProgramName'.sil > 'ProgramName'.asm //writes out assembly code into .asm file
+  a 'ProgramName'   //assemble .asm file into executable file
+  'ProgramName'   //run executable --> ./'ProgramName' depending on your path
