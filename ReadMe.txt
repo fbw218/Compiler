@@ -1,9 +1,8 @@
-Lexer Analyzer ReadMe
+Compiler ReadMe
 
-This project is the first part of a small compiler I am working on. 
-This program will separate the tokens from a given text file and interperate
-them as either tokens (integers, identifiers, etc) or errors in the code.
+This project is a small complier written in C++. 
+This program will parses a simple languate (sil) and all of the commands in a binary tree.
 
   To Run:
   make
-  lextest < tokenfile.txt
+  
